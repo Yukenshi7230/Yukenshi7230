@@ -19,24 +19,3 @@ Now, my focus is Web Development, at inusitate creations and fun.
     <a href="https://github.com/Yukenshi7230" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
 </div>
-
-
-  ![Snake animation](https://github.com/Yukenshi7230)
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working with Freelancer Dev
-- 🌱 I’m currently learning [Javascript|🔶] and [PHP|🅿️]
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-  ![Snake animation](https://github.com/Yukenshi7230)
